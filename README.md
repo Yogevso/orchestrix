@@ -1,5 +1,7 @@
 # Orchestrix
 
+> **Part of the [Orchestrix Platform](https://github.com/Yogevso/Orchestrix-Platform)** — the multi-tenant backend for job orchestration and telemetry ingestion.
+
 > A production-style backend platform for orchestrating async workflows, ingesting telemetry from system tools, and analyzing operational data across tenants.
 
 Multi-tenant backend platform for async job orchestration, telemetry ingestion, and analytics.
